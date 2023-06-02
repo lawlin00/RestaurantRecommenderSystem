@@ -1,5 +1,5 @@
 # Restaurant Recommender System
-***The project code is store is store in google drive: https://drive.google.com/file/d/1vhpRBCzANJvBVS-I6DeGHtT-KsOPl4Lk/view?usp=sharing ***
+***The project code is here: https://drive.google.com/file/d/1vhpRBCzANJvBVS-I6DeGHtT-KsOPl4Lk/view?usp=sharing ***
 
 This project is my Final Year Project. It is a web-based Restaurant Recommender System using Collaborative Filtering and Content-Based Filtering techniques. This project is build by using Yelp Dataset. There are two models build to make recommendation to the user which are using Singular Vector Decomposition (SVD) for collaborative filtering and TF-IDF method for Content-based recommender system. 
 
