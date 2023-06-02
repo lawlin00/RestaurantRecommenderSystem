@@ -7,3 +7,4 @@ Here are some of the features of this web-based Restaurant recommender system:
 - The system can generate recommendations based on user similarity and user preferences. The recommendation is generated based on User ID. 
 - User can view their information through dashboard
 - User can view the restaurant details information
+
