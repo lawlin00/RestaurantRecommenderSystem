@@ -16,6 +16,7 @@ Here are some of the features of this web-based Restaurant recommender system:
 5. Surprise
 6. Scikit-Learn
 7. FlaskAPI
+8. Jinja2
 
 
 
