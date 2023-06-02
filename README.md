@@ -8,5 +8,3 @@ Here are some of the features of this web-based Restaurant recommender system:
 - User can view their information through dashboard
 - User can view the restaurant details information
 
-
-
