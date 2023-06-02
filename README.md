@@ -1,1 +1,1 @@
-# RestaurantRecommenderSystem
+# Restaurant Recommender System
