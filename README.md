@@ -8,3 +8,14 @@ Here are some of the features of this web-based Restaurant recommender system:
 - User can view their information through dashboard
 - User can view the restaurant details information
 
+****Packaged used****
+1. Pandas
+2. Numpy
+3. Seaborn
+4. Matplotlib
+5. Surprise
+6. Scikit-Learn
+7. FlaskAPI
+
+
+
